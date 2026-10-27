@@ -18,13 +18,12 @@ No Python expertise needed: run the cells top to bottom with **Shift + Enter** a
 ```text
 brown-belt-1/
 ├── spatial_analysis_concepts.ipynb         # the notebook (outputs already saved)
-├── What Is Spatial Analysis_ - Alteryx.pdf # reading (source material)
 ├── README.md
 ├── LICENSE
 └── .gitignore                              # keeps secret/ and .venv/ out of git
 ```
 
-The class slides (`Class 19. Brown Belt I. Spatial.pptx`) are kept in a local `secret/` folder and are **not** in this repo; they're shared in class.
+The class slides and the Alteryx reading (*What Is Spatial Analysis?*) are kept in a local `secret/` folder and are **not** in this repo; they're shared in class.
 
 ---
 
