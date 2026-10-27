@@ -1,0 +1,10 @@
+# Private class slides: never pushed
+secret/
+
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
